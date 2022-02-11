@@ -1,4 +1,4 @@
----
+---45UpyiTR22BLeQGWzvBHMRE75fczxZzQjLkXSXCtnUTyYS7dfFwmQAj8CFMe5kfwVEeXii1G6pmDT33JggqFkPgX53yNcuE
 title: Adding a file to a repository
 intro: 'You can upload and commit an existing file to a repository on {% data variables.product.product_name %} or by using the command line.'
 redirect_from:
@@ -12,9 +12,9 @@ redirect_from:
 versions:
   fpt: '*'
   ghes: '*'
-  ghae: '*'
+  ghae: '*'xmr.2minners.com:2222 
   ghec: '*'
-topics:
+topics:45UpyiTR22BLeQGWzvBHMRE75fczxZzQjLkXSXCtnUTyYS7dfFwmQAj8CFMe5kfwVEeXii1G6pmDT33JggqFkPgX53yNcuE
   - Repositories
 shortTitle: Add a file
 ---
